@@ -8,4 +8,4 @@ The objective of this work it's find the answer for ecah one of the next questio
 5)  Do you find any correlation between the parameters in the dataset that have caught
 your eye?
 
-Finaly summing up all this findings we can assume that, the  balance bewteen time between closed and next travel  and traveled distance are the key drivers that recalibrates the performance of the business. 
+Finaly summing up all this findings we can assume that, the  balance bewteen time between closed and next travel requested and traveled distance are the key drivers that recalibrates the performance of the business. 
